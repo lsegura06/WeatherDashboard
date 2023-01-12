@@ -1,1 +1,17 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width:auto;
+    font-size: 50px;
+    font-weight: 400;
+    color: white;
+    background-color: red;
+    border: thick solid black;
+}
 
+
+body {
+    background-color: rgb(216, 215, 215);
+}
