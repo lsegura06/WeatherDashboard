@@ -9,7 +9,7 @@ You search up a city and it will display the current weather conditions and the 
 there will be 5 past cities under the search bar that have been previously searched for.
 
 ![WeatherDash](./assets/images/Capture.PNG)
-[Link to website]()
+[Link to website](https://lsegura06.github.io/WeatherDashboard/)
 
 ## Credits
 w3school.com
